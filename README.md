@@ -17,16 +17,16 @@
 <br>
 
 ## Skills & Tools
-### Programming Languages
 <div style="display: flex; gap: 10px;">
+  <strong>Programming Languages</strong><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-A8B9CC?style=for-the-badge&logo=Csharp&logoColor=white">
 </div>
 
-### Back-End
 <div style="display: flex; gap: 10px;">
+  <strong>Back-End</strong><br/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/JSP-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
@@ -34,23 +34,23 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </div>
 
-### Front-End
 <div style="display: flex; gap: 10px;">
+  <strong>Front-End</strong><br/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 </div>
 
-### Data Science & Analytics
 <div style="display: flex; gap: 10px;">
+  <strong>Data Science & Analytics</strong><br/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
 </div>
 
-### DevOps & Tools
 <div style="display: flex; gap: 10px;">
+  <strong>DevOps & Tools</strong><br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
