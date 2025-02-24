@@ -70,7 +70,7 @@
 
 ## More
 <div style="display: flex; gap: 10px;">
-  <a href="https://velog.io/@noh_level0/posts" rel="nofollow" target="_blank">
+  <a href="https://velog.io/@noh_level0/posts" rel="noopener noreferrer" target="_blank">
     <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" style="max-width: 100%;"/>
   </a>
   <a href="mailto:shdbwjd705270@gmail.com">
