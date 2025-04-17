@@ -17,7 +17,7 @@
 <br>
 
 ## 팀 프로젝트
-### [🔗 Confy](https://github.com/Setto1044/Confy)
+## 1. [🔗 Confy](https://github.com/Setto1044/Confy)
 - WebRTC 기반 화상회의 & STT 데이터를 활용한 자동 회의 요약 서비스
 - 인원: 총 6인
 
@@ -31,7 +31,23 @@
 - **Azure를 활용한 STT 기능 개발** – 각 클라이언트별 음성 데이터를 실시간 텍스트로 변환
 - **실시간 회의 요약 기능 개발** – 회의 중 생성된 STT 데이터를 Redis에 저장하고, 이 데이터를 실시간 회의 요약 기능에 활용
 - **UX 개선** – 무한 스크롤을 적용하여 회의 리스트를 편리하게 조회 가능하도록 구현
-  
+
+## 2. [🔗 PaletteMe](https://github.com/yooniqlo-kim/PaletteMe)
+- hadoop, Spark, Airflow를 활용한 빅데이터 수집으로 제공하는 미술 감상 서비스
+- 인원: 총 6인
+
+### ✨ **주요 기능**
+- 🌐 hadoop, Spark, Airflow로 세계 주요 5개의 미술관 데이터 수집
+- 🔍 elasticsearch, Logstash, Kibana를 활용한 검색 기능 제공
+- 🎨 사용자 맞춤 작품 추천 및 감상문 작성 기능
+
+### 🔧 **담당 역할**
+- **검색 기능 최적화** – 기존 MySQL을 활용한 검색을 elasticsearch, Logstash, Kibana를 도입하여 85%의 성능 개선
+- **배포** - Docker compose로 AWS EC2에 프론트엔드와 백엔드를 배포
+- **아키텍처 설계** - 전체 프로젝트 구조 설계
+- **DB 설계** - 프로젝트에서 사용할 테이블 설계
+- **API 구현** - 마이뮤지업 탭의 캘린더 및 조회 기능 API 구현 
+
 <br>
 
 ## Skills & Tools
