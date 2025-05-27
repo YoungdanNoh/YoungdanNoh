@@ -70,6 +70,7 @@
   <strong>Programming Languages</strong><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-A8B9CC?style=for-the-badge&logo=Csharp&logoColor=white">
 </div>
