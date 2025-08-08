@@ -20,6 +20,9 @@
 - `2021.08` 전문기술인재장학생 선정 (주관처: 한국장학재단, 교육부)
 - `2019.10` 하나장학생 선정 (주관처: 하나금융나눔재단)
 
+### 📂 Portfolio
+- 👉 [Click here to view my portfolio](https://nohyd.notion.site/portfolio)
+
 <br>
 
 ## 팀 프로젝트
